@@ -15,7 +15,7 @@
 
 ## ItemsHorizontalDeepLink
 
-編集フォームで編集（画面遷移時にコンテキスト変数でItemを保持）＋ディープリンク
+編集フォームで編集（画面遷移時にコンテキスト変数でItemを保持）＋[ディープリンク](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/how-to/deep-linking)
 
 <img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App11.png" width="480">
 
