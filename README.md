@@ -13,6 +13,15 @@
 <br>
 <br>
 
+## ItemsHorizontalDeepLink
+
+編集フォームで編集（画面遷移時にコンテキスト変数でItemを保持）＋ディープリンク
+
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App11.png" width="480">
+
+<br>
+<br>
+
 ## ItemsHorizontal3ColumnList
 
 3列で一覧表示
