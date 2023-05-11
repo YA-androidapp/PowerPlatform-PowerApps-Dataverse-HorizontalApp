@@ -77,6 +77,15 @@
 
 <img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App12.png" width="480">
 
+<br>
+<br>
+
+## ItemsHorizontalSearch
+
+データグリッドに検索機能を追加
+
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App13.png" width="480">
+
 ---
 
 Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
