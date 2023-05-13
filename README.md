@@ -84,7 +84,26 @@
 
 データグリッドに検索機能を追加
 
+<br>
+
+### 単一テキストボックスで動的に絞り込み
+
 <img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App13.png" width="480">
+
+<br>
+
+### 列ごとのテキストボックスで動的に絞り込み
+
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App14.png" width="480">
+
+<br>
+
+### 検索ボタン押下時にグローバル変数に対して逐次絞り込み
+
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App15.png" width="480">
+
+<br>
+<br>
 
 ---
 
