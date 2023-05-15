@@ -81,6 +81,15 @@
 <br>
 <br>
 
+## ItemsHorizontalSideMenu
+
+サイドメニュー ＋ データグリッドで直接編集
+
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App18.png" width="480">
+
+<br>
+<br>
+
 ## ItemsHorizontalPagination
 
 データグリッドにページネーションを追加
