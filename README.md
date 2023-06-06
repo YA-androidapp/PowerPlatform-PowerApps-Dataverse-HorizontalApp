@@ -124,6 +124,19 @@
 <br>
 <br>
 
+## ItemsStartedWithData
+
+メーカーポータルの「データで開始する（Start with Data）」から横画面のCRUDアプリを作成
+
+- [New Power Apps home page now in public preview](https://powerapps.microsoft.com/ja-jp/blog/new-power-apps-home-page-now-in-public-preview/)
+
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App19.png" width="480">
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App20.png" width="480">
+<img src="https://raw.githubusercontent.com/YA-androidapp/PowerPlatform-PowerApps-Dataverse-HorizontalApp/main/Images/App21.png" width="480">
+
+<br>
+<br>
+
 ---
 
 Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
